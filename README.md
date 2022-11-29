@@ -1,1 +1,1 @@
-# Kodluyoruz-Patika-.Dev-
+# Kodluyoruz-Patika-Dev-
