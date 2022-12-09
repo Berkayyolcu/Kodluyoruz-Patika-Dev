@@ -1,0 +1,24 @@
+img{
+display: block;
+margin:200px auto;
+}
+
+.boxtwo{
+max-width:100%;
+width:1500px;
+height:90px;
+background-color:#EEEEEE;
+margin:-200px auto;
+
+}
+
+
+.btn{
+width:220px;
+margin: 35px  auto;
+display: block;
+}
+
+table{
+	margin: 200px  auto;
+}
