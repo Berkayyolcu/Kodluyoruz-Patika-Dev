@@ -1,0 +1,130 @@
+
+[7,5,1,8,3,6,0,9,4,2] dizisinin Binary-Search-Tree aşamalarını yazınız.
+
+- Root 7 olsun 
+
+     7 
+
+
+- 9 ve 8  7 den büyük olduğu için 7'nin sağında bulunur.
+- 8 ise 9 dan küçük olduğu için  9 'un solunda bulunur. 
+
+          7
+
+           \
+            9
+           /  
+          8
+
+
+- 5  7 den kücük olduğu için 7 'nin solunda bulunur.
+
+          7
+
+        /  \
+       5    9
+           /  
+          8
+
+
+- 6 7 den kücük olduğu için 7'nin solunda bulunur.
+- 6 5 den büyük olduğu için 5'in sağında bulunur.
+
+
+         7
+
+      /     \
+     5       9
+      \     /  
+       6   8
+
+
+- 4 7 den kücük olduğu için 7'nin solunda bulunur.
+- 4 5 den kücük olduğu için 5'in solunda bulunur.
+
+
+         7
+
+      /     \
+     5       9
+    / \     /  
+   4   6   8
+
+
+- 3 7 den kücük olduğu için 7'nin solunda bulunur.
+- 3 5 den kücük olduğu için 5'in solunda bulunur.
+- 3 4 den kücük olduğu için 4'in solunda bulunur.
+
+
+             7
+
+          /     \
+         5       9
+        / \     /  
+       4   6   8
+      /
+     3
+
+- 0 7 den kücük olduğu için 7'nin solunda bulunur.
+- 0 5 den kücük olduğu için 5'in solunda bulunur.
+- 0 4 den kücük olduğu için 4'ün solunda bulunur.
+- 0 3 den kücük olduğu için 3'ün solunda bulunur.
+
+
+
+             7
+
+          /     \
+         5       9
+        / \     /  
+       4   6   8
+      /
+     3
+    /
+   0
+    
+
+- 2 7 den kücük olduğu için 7'nin solunda bulunur.
+- 2 5 den kücük olduğu için 5'in solunda bulunur.
+- 2 4 den kücük olduğu için 4'ün solunda bulunur.
+- 2 3 den kücük olduğu için 3'ün solunda bulunur.
+- 2 0 dan büyük olduğu için 0'ın sağında bulunur.
+
+
+             7
+
+          /     \
+         5       9
+        / \     /  
+       4   6   8
+      /
+     3
+    /
+   0
+    \ 
+     2
+
+
+- 1 7 den kücük olduğu için 7'nin solunda bulunur.
+- 1 5 den kücük olduğu için 5'in solunda bulunur.
+- 1 4 den kücük olduğu için 4'ün solunda bulunur.
+- 1 3 den kücük olduğu için 3'ün solunda bulunur.
+- 1 0 dan büyük olduğu için 0'ın sağında bulunur.
+- 1 2 den kücük olduğu için 2'inin solunda bulunur.
+
+
+            7
+
+          /     \
+         5       9
+        / \     /  
+       4   6   8
+      /
+     3
+    /
+   0
+    \ 
+     2
+    /
+   1
+
