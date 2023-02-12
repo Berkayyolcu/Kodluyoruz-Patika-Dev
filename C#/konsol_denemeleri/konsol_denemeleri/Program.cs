@@ -17,7 +17,6 @@ namespace konsol_denemeleri
             string degisken = null;  
             Console.WriteLine(degisken); //bos(null) bir değer atıyoruz 
 
-
             byte b = 5;  // 1 byte yer kaplar
             sbyte c = 5; // 1 byte yer kaplar
 
@@ -61,13 +60,11 @@ namespace konsol_denemeleri
             String tamisim = ad + " " + soyad;
 
             // integer tanımlama şekilleri
-
             int integer1 = 5;
             int integer2 = 3;
             int integer3 = integer1 * integer2;
 
             // boolean
-
             bool bool1 = 10 < 2;  // false döner
             bool bool2 = 10 > 2;  // true döner
 
@@ -87,7 +84,6 @@ namespace konsol_denemeleri
             int int22 = int20 + int.Parse(str20); // cıktısı 40 olur 
 
             // datetime
-
             string datetime = DateTime.Now.ToString("dd.MM.yyyy");
             Console.WriteLine(datetime); // cıktısı 12.02.2023 tarih olur
 
