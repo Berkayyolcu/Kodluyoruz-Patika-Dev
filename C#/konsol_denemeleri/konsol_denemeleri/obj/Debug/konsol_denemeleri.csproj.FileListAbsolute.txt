@@ -1,0 +1,8 @@
+C:\Users\Yolcu\source\repos\konsol_denemeleri\konsol_denemeleri\bin\Debug\konsol_denemeleri.exe.config
+C:\Users\Yolcu\source\repos\konsol_denemeleri\konsol_denemeleri\bin\Debug\konsol_denemeleri.exe
+C:\Users\Yolcu\source\repos\konsol_denemeleri\konsol_denemeleri\bin\Debug\konsol_denemeleri.pdb
+C:\Users\Yolcu\source\repos\konsol_denemeleri\konsol_denemeleri\obj\Debug\konsol_denemeleri.csproj.AssemblyReference.cache
+C:\Users\Yolcu\source\repos\konsol_denemeleri\konsol_denemeleri\obj\Debug\konsol_denemeleri.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yolcu\source\repos\konsol_denemeleri\konsol_denemeleri\obj\Debug\konsol_denemeleri.csproj.CoreCompileInputs.cache
+C:\Users\Yolcu\source\repos\konsol_denemeleri\konsol_denemeleri\obj\Debug\konsol_denemeleri.exe
+C:\Users\Yolcu\source\repos\konsol_denemeleri\konsol_denemeleri\obj\Debug\konsol_denemeleri.pdb
