@@ -1,0 +1,8 @@
+C:\Users\Yolcu\source\repos\operatörler\operatörler\bin\Debug\operatörler.exe.config
+C:\Users\Yolcu\source\repos\operatörler\operatörler\bin\Debug\operatörler.exe
+C:\Users\Yolcu\source\repos\operatörler\operatörler\bin\Debug\operatörler.pdb
+C:\Users\Yolcu\source\repos\operatörler\operatörler\obj\Debug\operatörler.csproj.AssemblyReference.cache
+C:\Users\Yolcu\source\repos\operatörler\operatörler\obj\Debug\operatörler.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yolcu\source\repos\operatörler\operatörler\obj\Debug\operatörler.csproj.CoreCompileInputs.cache
+C:\Users\Yolcu\source\repos\operatörler\operatörler\obj\Debug\operatörler.exe
+C:\Users\Yolcu\source\repos\operatörler\operatörler\obj\Debug\operatörler.pdb
