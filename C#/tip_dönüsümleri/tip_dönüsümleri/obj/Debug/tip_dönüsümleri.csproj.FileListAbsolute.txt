@@ -1,0 +1,8 @@
+C:\Users\Yolcu\source\repos\tip_dönüsümleri\tip_dönüsümleri\obj\Debug\tip_dönüsümleri.csproj.AssemblyReference.cache
+C:\Users\Yolcu\source\repos\tip_dönüsümleri\tip_dönüsümleri\obj\Debug\tip_dönüsümleri.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yolcu\source\repos\tip_dönüsümleri\tip_dönüsümleri\obj\Debug\tip_dönüsümleri.csproj.CoreCompileInputs.cache
+C:\Users\Yolcu\source\repos\tip_dönüsümleri\tip_dönüsümleri\bin\Debug\tip_dönüsümleri.exe.config
+C:\Users\Yolcu\source\repos\tip_dönüsümleri\tip_dönüsümleri\bin\Debug\tip_dönüsümleri.exe
+C:\Users\Yolcu\source\repos\tip_dönüsümleri\tip_dönüsümleri\bin\Debug\tip_dönüsümleri.pdb
+C:\Users\Yolcu\source\repos\tip_dönüsümleri\tip_dönüsümleri\obj\Debug\tip_dönüsümleri.exe
+C:\Users\Yolcu\source\repos\tip_dönüsümleri\tip_dönüsümleri\obj\Debug\tip_dönüsümleri.pdb

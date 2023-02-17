@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tip_dönüsümleri", "tip_dönüsümleri\tip_dönüsümleri.csproj", "{3DB37FFA-0540-4C22-9990-126F448D52CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3DB37FFA-0540-4C22-9990-126F448D52CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DB37FFA-0540-4C22-9990-126F448D52CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DB37FFA-0540-4C22-9990-126F448D52CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DB37FFA-0540-4C22-9990-126F448D52CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FD1D5185-EF7A-44E4-A44B-160094B162A6}
+	EndGlobalSection
+EndGlobal
