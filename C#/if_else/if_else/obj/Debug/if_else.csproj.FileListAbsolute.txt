@@ -1,0 +1,8 @@
+C:\Users\Yolcu\source\repos\if_else\if_else\bin\Debug\if_else.exe.config
+C:\Users\Yolcu\source\repos\if_else\if_else\bin\Debug\if_else.exe
+C:\Users\Yolcu\source\repos\if_else\if_else\bin\Debug\if_else.pdb
+C:\Users\Yolcu\source\repos\if_else\if_else\obj\Debug\if_else.csproj.AssemblyReference.cache
+C:\Users\Yolcu\source\repos\if_else\if_else\obj\Debug\if_else.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yolcu\source\repos\if_else\if_else\obj\Debug\if_else.csproj.CoreCompileInputs.cache
+C:\Users\Yolcu\source\repos\if_else\if_else\obj\Debug\if_else.exe
+C:\Users\Yolcu\source\repos\if_else\if_else\obj\Debug\if_else.pdb
