@@ -1,0 +1,8 @@
+C:\Users\Yolcu\source\repos\metot_tanımlama\metot_tanımlama\bin\Debug\metot_tanımlama.exe.config
+C:\Users\Yolcu\source\repos\metot_tanımlama\metot_tanımlama\bin\Debug\metot_tanımlama.exe
+C:\Users\Yolcu\source\repos\metot_tanımlama\metot_tanımlama\bin\Debug\metot_tanımlama.pdb
+C:\Users\Yolcu\source\repos\metot_tanımlama\metot_tanımlama\obj\Debug\metot_tanımlama.csproj.AssemblyReference.cache
+C:\Users\Yolcu\source\repos\metot_tanımlama\metot_tanımlama\obj\Debug\metot_tanımlama.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yolcu\source\repos\metot_tanımlama\metot_tanımlama\obj\Debug\metot_tanımlama.csproj.CoreCompileInputs.cache
+C:\Users\Yolcu\source\repos\metot_tanımlama\metot_tanımlama\obj\Debug\metot_tanımlama.exe
+C:\Users\Yolcu\source\repos\metot_tanımlama\metot_tanımlama\obj\Debug\metot_tanımlama.pdb
