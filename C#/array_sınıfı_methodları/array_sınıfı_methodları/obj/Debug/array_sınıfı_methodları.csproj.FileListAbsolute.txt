@@ -1,0 +1,8 @@
+C:\Users\Yolcu\source\repos\array_sınıfı_methodları\array_sınıfı_methodları\bin\Debug\array_sınıfı_methodları.exe.config
+C:\Users\Yolcu\source\repos\array_sınıfı_methodları\array_sınıfı_methodları\bin\Debug\array_sınıfı_methodları.exe
+C:\Users\Yolcu\source\repos\array_sınıfı_methodları\array_sınıfı_methodları\bin\Debug\array_sınıfı_methodları.pdb
+C:\Users\Yolcu\source\repos\array_sınıfı_methodları\array_sınıfı_methodları\obj\Debug\array_sınıfı_methodları.csproj.AssemblyReference.cache
+C:\Users\Yolcu\source\repos\array_sınıfı_methodları\array_sınıfı_methodları\obj\Debug\array_sınıfı_methodları.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yolcu\source\repos\array_sınıfı_methodları\array_sınıfı_methodları\obj\Debug\array_sınıfı_methodları.csproj.CoreCompileInputs.cache
+C:\Users\Yolcu\source\repos\array_sınıfı_methodları\array_sınıfı_methodları\obj\Debug\array_sınıfı_methodları.exe
+C:\Users\Yolcu\source\repos\array_sınıfı_methodları\array_sınıfı_methodları\obj\Debug\array_sınıfı_methodları.pdb
