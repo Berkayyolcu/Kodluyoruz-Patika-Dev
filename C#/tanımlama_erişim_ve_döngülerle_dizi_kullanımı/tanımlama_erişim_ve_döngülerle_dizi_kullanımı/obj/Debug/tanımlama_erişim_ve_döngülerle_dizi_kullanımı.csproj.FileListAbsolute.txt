@@ -1,0 +1,8 @@
+C:\Users\Yolcu\source\repos\tanımlama_erişim_ve_döngülerle_dizi_kullanımı\tanımlama_erişim_ve_döngülerle_dizi_kullanımı\bin\Debug\tanımlama_erişim_ve_döngülerle_dizi_kullanımı.exe.config
+C:\Users\Yolcu\source\repos\tanımlama_erişim_ve_döngülerle_dizi_kullanımı\tanımlama_erişim_ve_döngülerle_dizi_kullanımı\bin\Debug\tanımlama_erişim_ve_döngülerle_dizi_kullanımı.exe
+C:\Users\Yolcu\source\repos\tanımlama_erişim_ve_döngülerle_dizi_kullanımı\tanımlama_erişim_ve_döngülerle_dizi_kullanımı\bin\Debug\tanımlama_erişim_ve_döngülerle_dizi_kullanımı.pdb
+C:\Users\Yolcu\source\repos\tanımlama_erişim_ve_döngülerle_dizi_kullanımı\tanımlama_erişim_ve_döngülerle_dizi_kullanımı\obj\Debug\tanımlama_erişim_ve_döngülerle_dizi_kullanımı.csproj.AssemblyReference.cache
+C:\Users\Yolcu\source\repos\tanımlama_erişim_ve_döngülerle_dizi_kullanımı\tanımlama_erişim_ve_döngülerle_dizi_kullanımı\obj\Debug\tanımlama_erişim_ve_döngülerle_dizi_kullanımı.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yolcu\source\repos\tanımlama_erişim_ve_döngülerle_dizi_kullanımı\tanımlama_erişim_ve_döngülerle_dizi_kullanımı\obj\Debug\tanımlama_erişim_ve_döngülerle_dizi_kullanımı.csproj.CoreCompileInputs.cache
+C:\Users\Yolcu\source\repos\tanımlama_erişim_ve_döngülerle_dizi_kullanımı\tanımlama_erişim_ve_döngülerle_dizi_kullanımı\obj\Debug\tanımlama_erişim_ve_döngülerle_dizi_kullanımı.exe
+C:\Users\Yolcu\source\repos\tanımlama_erişim_ve_döngülerle_dizi_kullanımı\tanımlama_erişim_ve_döngülerle_dizi_kullanımı\obj\Debug\tanımlama_erişim_ve_döngülerle_dizi_kullanımı.pdb
