@@ -41,7 +41,7 @@ namespace while_foreach
 
 
             Console.WriteLine("\n  *****  Foreach ***** ");
-            string[] arabalar = {"BMW","FORD","TOYOTA","NİSSAN" };
+            string[] arabalar = {"BMW","FORD","TOYOTA","NİSSAN"};
 
             foreach (var araba in arabalar)
             {
