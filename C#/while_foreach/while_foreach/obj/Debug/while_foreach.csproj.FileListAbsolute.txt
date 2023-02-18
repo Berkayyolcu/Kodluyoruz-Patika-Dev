@@ -1,0 +1,8 @@
+C:\Users\Yolcu\source\repos\while_foreach\while_foreach\bin\Debug\while_foreach.exe.config
+C:\Users\Yolcu\source\repos\while_foreach\while_foreach\bin\Debug\while_foreach.exe
+C:\Users\Yolcu\source\repos\while_foreach\while_foreach\bin\Debug\while_foreach.pdb
+C:\Users\Yolcu\source\repos\while_foreach\while_foreach\obj\Debug\while_foreach.csproj.AssemblyReference.cache
+C:\Users\Yolcu\source\repos\while_foreach\while_foreach\obj\Debug\while_foreach.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yolcu\source\repos\while_foreach\while_foreach\obj\Debug\while_foreach.csproj.CoreCompileInputs.cache
+C:\Users\Yolcu\source\repos\while_foreach\while_foreach\obj\Debug\while_foreach.exe
+C:\Users\Yolcu\source\repos\while_foreach\while_foreach\obj\Debug\while_foreach.pdb
