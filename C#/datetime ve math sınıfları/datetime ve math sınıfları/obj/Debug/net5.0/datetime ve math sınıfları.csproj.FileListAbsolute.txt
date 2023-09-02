@@ -1,0 +1,16 @@
+C:\Users\Byolcu\source\repos\datetime ve math sınıfları\datetime ve math sınıfları\bin\Debug\net5.0\datetime ve math sınıfları.exe
+C:\Users\Byolcu\source\repos\datetime ve math sınıfları\datetime ve math sınıfları\bin\Debug\net5.0\datetime ve math sınıfları.deps.json
+C:\Users\Byolcu\source\repos\datetime ve math sınıfları\datetime ve math sınıfları\bin\Debug\net5.0\datetime ve math sınıfları.runtimeconfig.json
+C:\Users\Byolcu\source\repos\datetime ve math sınıfları\datetime ve math sınıfları\bin\Debug\net5.0\datetime ve math sınıfları.runtimeconfig.dev.json
+C:\Users\Byolcu\source\repos\datetime ve math sınıfları\datetime ve math sınıfları\bin\Debug\net5.0\datetime ve math sınıfları.dll
+C:\Users\Byolcu\source\repos\datetime ve math sınıfları\datetime ve math sınıfları\bin\Debug\net5.0\datetime ve math sınıfları.pdb
+C:\Users\Byolcu\source\repos\datetime ve math sınıfları\datetime ve math sınıfları\obj\Debug\net5.0\datetime ve math sınıfları.csproj.AssemblyReference.cache
+C:\Users\Byolcu\source\repos\datetime ve math sınıfları\datetime ve math sınıfları\obj\Debug\net5.0\datetime ve math sınıfları.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Byolcu\source\repos\datetime ve math sınıfları\datetime ve math sınıfları\obj\Debug\net5.0\datetime ve math sınıfları.AssemblyInfoInputs.cache
+C:\Users\Byolcu\source\repos\datetime ve math sınıfları\datetime ve math sınıfları\obj\Debug\net5.0\datetime ve math sınıfları.AssemblyInfo.cs
+C:\Users\Byolcu\source\repos\datetime ve math sınıfları\datetime ve math sınıfları\obj\Debug\net5.0\datetime ve math sınıfları.csproj.CoreCompileInputs.cache
+C:\Users\Byolcu\source\repos\datetime ve math sınıfları\datetime ve math sınıfları\obj\Debug\net5.0\datetime ve math sınıfları.dll
+C:\Users\Byolcu\source\repos\datetime ve math sınıfları\datetime ve math sınıfları\obj\Debug\net5.0\refint\datetime ve math sınıfları.dll
+C:\Users\Byolcu\source\repos\datetime ve math sınıfları\datetime ve math sınıfları\obj\Debug\net5.0\datetime ve math sınıfları.pdb
+C:\Users\Byolcu\source\repos\datetime ve math sınıfları\datetime ve math sınıfları\obj\Debug\net5.0\datetime ve math sınıfları.genruntimeconfig.cache
+C:\Users\Byolcu\source\repos\datetime ve math sınıfları\datetime ve math sınıfları\obj\Debug\net5.0\ref\datetime ve math sınıfları.dll
